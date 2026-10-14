@@ -1,3 +1,10 @@
+
+/*
+ * Program      : Sum of First 50 Natural Numbers
+ * Name         : Abdullah Wahaj
+ * Reg No       : L1S26BSCS0055
+ * Assignment   : 01 - Getting Started with GitHub
+ */
 #include <iostream>
 using namespace std;
 
